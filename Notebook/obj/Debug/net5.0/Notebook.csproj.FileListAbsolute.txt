@@ -1,0 +1,16 @@
+C:\Users\kiril\RiderProjects\HW8\Notebook\bin\Debug\net5.0\Notebook.exe
+C:\Users\kiril\RiderProjects\HW8\Notebook\bin\Debug\net5.0\Notebook.deps.json
+C:\Users\kiril\RiderProjects\HW8\Notebook\bin\Debug\net5.0\Notebook.runtimeconfig.json
+C:\Users\kiril\RiderProjects\HW8\Notebook\bin\Debug\net5.0\Notebook.runtimeconfig.dev.json
+C:\Users\kiril\RiderProjects\HW8\Notebook\bin\Debug\net5.0\Notebook.dll
+C:\Users\kiril\RiderProjects\HW8\Notebook\bin\Debug\net5.0\ref\Notebook.dll
+C:\Users\kiril\RiderProjects\HW8\Notebook\bin\Debug\net5.0\Notebook.pdb
+C:\Users\kiril\RiderProjects\HW8\Notebook\obj\Debug\net5.0\Notebook.csproj.AssemblyReference.cache
+C:\Users\kiril\RiderProjects\HW8\Notebook\obj\Debug\net5.0\Notebook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiril\RiderProjects\HW8\Notebook\obj\Debug\net5.0\Notebook.AssemblyInfoInputs.cache
+C:\Users\kiril\RiderProjects\HW8\Notebook\obj\Debug\net5.0\Notebook.AssemblyInfo.cs
+C:\Users\kiril\RiderProjects\HW8\Notebook\obj\Debug\net5.0\Notebook.csproj.CoreCompileInputs.cache
+C:\Users\kiril\RiderProjects\HW8\Notebook\obj\Debug\net5.0\Notebook.dll
+C:\Users\kiril\RiderProjects\HW8\Notebook\obj\Debug\net5.0\ref\Notebook.dll
+C:\Users\kiril\RiderProjects\HW8\Notebook\obj\Debug\net5.0\Notebook.pdb
+C:\Users\kiril\RiderProjects\HW8\Notebook\obj\Debug\net5.0\Notebook.genruntimeconfig.cache
